@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.deps.json
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.dll
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\ref\Tracer.dll
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.pdb
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.AssemblyInfo.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.dll
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\ref\Tracer.dll
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.pdb
