@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Threading.Tasks;
+using Tracer.Services;
+using Tracer.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -9,8 +12,11 @@ namespace Tracer
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            InitNavigation();
+        }
+        Task InitNavigation()
+        {
+            return NavigationService.Instance.InitializeAsync();
         }
 
         protected override void OnStart()

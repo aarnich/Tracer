@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:styles="clr-namespace:Tracer.Styles" x:Class="Tracer.App" xmlns:__xl="clr-namespace:__livexaml" __xl:Runtime.Register="C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\App.xaml">
+  <Application.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <styles:Colors />
+        <styles:Font />
+      </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>

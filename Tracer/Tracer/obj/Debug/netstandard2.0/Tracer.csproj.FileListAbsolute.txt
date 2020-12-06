@@ -3,8 +3,6 @@ C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\ref\Tracer.dll
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.pdb
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache
-C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.AssemblyInfoInputs.cache
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.AssemblyInfo.cs
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csproj.CoreCompileInputs.cache
@@ -12,3 +10,13 @@ C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\XamlC.
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.dll
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\ref\Tracer.dll
 C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.pdb
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\BaseView.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\Templates\ItemUITemplate.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Styles\Font.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\NotePopupView.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\Templates\CollapsedNotesItemTemplate.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\Templates\ExpandedNotesItemTemplate.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\Templates\NotesTodoItemTemplate.xaml.g.cs
+C:\Users\aaron\source\repos\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\NavigationView.xaml.g.cs
