@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj": {}
+    "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj": {
+    "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+        "projectUniqueName": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
         "projectName": "Tracer.Android",
-        "projectPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
-        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\obj\\",
+        "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+        "packagesPath": "C:\\Users\\katze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katze\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
-                "projectPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
+              "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+                "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj"
               }
             }
           }
@@ -74,20 +74,20 @@
         }
       }
     },
-    "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+    "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
+        "projectUniqueName": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj",
         "projectName": "Tracer",
-        "projectPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
-        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\obj\\",
+        "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj",
+        "packagesPath": "C:\\Users\\katze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katze\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
