@@ -146,7 +146,7 @@
             <Grid Grid.Row="1"
                   BackgroundColor="{StaticResource PrimaryRed}">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="550"/>
+                    <RowDefinition Height="500"/>
                     <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
                 <!--NOTE LIST ITEMS-->
