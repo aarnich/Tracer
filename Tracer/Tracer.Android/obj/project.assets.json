@@ -2274,24 +2274,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aaron\\.nuget\\packages\\": {},
+    "C:\\Users\\Hugzgaming\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
       "projectName": "Tracer.Android",
-      "projectPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
-      "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer.Android\\obj\\",
+      "projectPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+      "packagesPath": "C:\\Users\\Hugzgaming\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hugzgaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2305,8 +2305,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
-              "projectPath": "C:\\Users\\aaron\\source\\repos\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
+            "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+              "projectPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
             }
           }
         }
