@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using Xamarin.Forms;
 
 namespace Tracer.Views
 {
@@ -28,6 +29,11 @@ namespace Tracer.Views
         {
             VisualStateManager.GoToState(ExpandButton, visualState);
             VisualStateManager.GoToState(CollapseButton, visualState);
+        }
+
+        private void AddNotes(object sender, EventArgs e)
+        {
+            
         }
     }
 }

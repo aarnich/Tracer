@@ -7,6 +7,16 @@
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
+      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\InputUserDetailsPage.xaml</FilePath>
+      <Hash>40-FE-3F-8C-9E-FB-21-BC-DE-74-A6-FA-6D-B4-E0-71</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\StartPage.xaml</FilePath>
+      <Hash>3B-1D-57-4F-5B-96-8C-4F-C5-EC-81-44-CA-B5-23-BC</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Styles\Colors.xaml</FilePath>
       <Hash>2B-B2-34-9D-50-99-59-F4-D7-01-70-7F-7B-E5-7A-FE</Hash>
       <Properties />
@@ -18,7 +28,7 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\BaseView.xaml</FilePath>
-      <Hash>09-46-EA-AD-54-B5-6A-EC-37-4A-F2-22-CE-13-63-AD</Hash>
+      <Hash>B3-A5-8B-A8-63-28-1C-6F-6C-3D-85-4B-1E-12-77-11</Hash>
       <Properties>
         <string>BackgroundColor</string>
       </Properties>
@@ -30,7 +40,7 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\NotePopupView.xaml</FilePath>
-      <Hash>1E-8B-B9-2D-BD-42-AA-AB-E5-65-5D-31-1E-8E-EB-9A</Hash>
+      <Hash>B5-3B-5A-23-15-EC-06-9C-A8-A6-6C-37-8A-5E-C2-68</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>

@@ -24,7 +24,6 @@ D:\Projects\C#\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.deps.json
 D:\Projects\C#\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\ref\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\bin\Debug\netstandard2.0\Tracer.pdb
-D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Styles\Font.xaml.g.cs
@@ -42,3 +41,6 @@ D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\ref\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.pdb
+D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache
+D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\InputUserDetailsPage.xaml.g.cs
+D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\StartPage.xaml.g.cs

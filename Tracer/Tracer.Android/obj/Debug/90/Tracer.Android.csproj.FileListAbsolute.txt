@@ -1070,3 +1070,10 @@ D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\stamp\_ConvertResources
 D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\Firebase.Auth.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\Firebase.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\LiteDB.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\System.Reactive.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Projects\C#\Tracer\Tracer\Tracer.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.Primitives.dll
