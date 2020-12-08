@@ -2,16 +2,66 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Tracer.InputUserDetailsPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Entry">
+                <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+                <Setter Property="FontSize" Value="15" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="Black" />
+            </Style>
+            <Style x:Key="TitleStyle" TargetType="Label">
+                <Setter Property="FontFamily" Value="{StaticResource Futura}" />
+                <Setter Property="FontSize" Value="25" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="White" />
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            </Style>
+            <Style x:Key="DefaultLabel" TargetType="Label">
+                <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="White" />
+            </Style>
+            <Style TargetType="DatePicker">
+                <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+                <Setter Property="FontSize" Value="15" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
     <ContentPage.Content>
-        <StackLayout>
-            <Entry Placeholder="UserName" x:Name="TxtUName"></Entry>
-            <Entry Placeholder="FirstName" x:Name="TxtFName"></Entry>
-            <Entry Placeholder="LastName" x:Name="TxtLName"></Entry>
-            <Entry Placeholder="Address" x:Name="TxtAddress"></Entry>
-            <Entry Placeholder="Occupation" x:Name="TxtOccupation"></Entry>
-            <Label Text="Date of Birth"></Label>
-            <DatePicker x:Name="DprBirthDate"></DatePicker>
-            <Button Text="Add User Details" Clicked="AddUserDetails"></Button>
-        </StackLayout>
+        <Grid VerticalOptions="FillAndExpand" BackgroundColor="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Image Source="logo.png" Aspect="AspectFit" VerticalOptions="Center" HorizontalOptions="Center" Margin="0, 20, 0, 0" />
+            <Frame Grid.Row="2" BackgroundColor="White" BorderColor="Black" CornerRadius="10" Margin="20, 0" VerticalOptions="StartAndExpand"> 
+                <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                    <Label Style="{StaticResource TitleStyle}" Text="User Information" />
+                    <Label Style="{StaticResource DefaultLabel}" Text="Username" />
+                    <Entry Placeholder="Username" x:Name="TxtUName"/>
+                    <Label Style="{StaticResource DefaultLabel}" Text="First Name" />
+                    <Entry Placeholder="First Name" x:Name="TxtFName"/>
+                    <Label Style="{StaticResource DefaultLabel}" Text="Last Name" />
+                    <Entry Placeholder="Last Name" x:Name="TxtLName"/>
+                    <Label Style="{StaticResource DefaultLabel}" Text="Address" />
+                    <Entry Placeholder="Address" x:Name="TxtAddress"/>
+                    <Label Style="{StaticResource DefaultLabel}" Text="Occupation" />
+                    <Entry Placeholder="Occupation" x:Name="TxtOccupation"/>
+                    <Label Style="{StaticResource DefaultLabel}" Text="Date of Birth"/>
+                    <DatePicker x:Name="DprBirthDate"/>
+                    <Button Text="Add User Details" Clicked="AddUserDetails" Margin="5,5"/>
+                </StackLayout>
+            </Frame>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

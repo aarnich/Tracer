@@ -2,70 +2,70 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\App.xaml</FilePath>
-      <Hash>33-0B-10-D5-D2-19-34-72-F5-64-58-3A-E4-2A-9F-E7</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\App.xaml</FilePath>
+      <Hash>32-64-53-0A-41-73-F0-06-41-A8-5D-2F-6E-D7-C3-66</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\InputUserDetailsPage.xaml</FilePath>
-      <Hash>E5-D1-BB-43-CC-1A-26-AD-E3-DC-DB-DD-72-A9-57-F7</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\InputUserDetailsPage.xaml</FilePath>
+      <Hash>0E-91-ED-08-5B-A0-2C-09-F9-B3-CD-43-88-A9-3C-63</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\StartPage.xaml</FilePath>
-      <Hash>3B-1D-57-4F-5B-96-8C-4F-C5-EC-81-44-CA-B5-23-BC</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\StartPage.xaml</FilePath>
+      <Hash>DA-32-AE-CA-25-98-4B-A5-DE-18-EF-78-84-19-9F-1B</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Styles\Colors.xaml</FilePath>
-      <Hash>2B-B2-34-9D-50-99-59-F4-D7-01-70-7F-7B-E5-7A-FE</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Styles\Colors.xaml</FilePath>
+      <Hash>36-09-48-D1-A9-DC-D2-7A-C2-8F-07-53-D1-D1-FC-78</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Styles\Font.xaml</FilePath>
-      <Hash>40-4B-25-66-37-C1-6B-63-1C-91-6A-C9-12-33-77-75</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Styles\Font.xaml</FilePath>
+      <Hash>3F-73-A6-BF-2E-12-D1-E2-49-CD-40-63-CB-68-46-28</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\AddNotesPopUpView.xaml</FilePath>
-      <Hash>66-8C-15-B9-10-25-D1-42-30-FF-7F-89-AB-AA-0A-BE</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\AddNotesPopUpView.xaml</FilePath>
+      <Hash>C3-CB-3B-AD-0E-D7-FA-C9-3C-B9-79-D9-66-72-17-FB</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\BaseView.xaml</FilePath>
-      <Hash>B3-A5-8B-A8-63-28-1C-6F-6C-3D-85-4B-1E-12-77-11</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\BaseView.xaml</FilePath>
+      <Hash>55-E4-D6-9C-68-26-C9-C4-21-91-24-D0-AF-0B-3E-C8</Hash>
       <Properties>
         <string>BackgroundColor</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\NavigationView.xaml</FilePath>
-      <Hash>96-55-A7-A1-3A-1D-7D-7F-85-60-08-C7-B9-6D-22-DF</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\NavigationView.xaml</FilePath>
+      <Hash>F5-EC-28-68-3D-26-D8-31-FE-CD-8A-31-25-D5-AF-4A</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\NotePopupView.xaml</FilePath>
-      <Hash>6A-AF-63-8A-35-20-39-D7-FE-03-5E-04-1E-C3-16-5E</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\NotePopupView.xaml</FilePath>
+      <Hash>59-A0-0A-B7-D3-E9-4A-CC-E0-64-C5-AD-A3-B5-B9-26</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\Templates\CollapsedNotesItemTemplate.xaml</FilePath>
-      <Hash>2A-05-B2-AF-89-26-DC-05-FF-BC-20-9C-DF-5F-64-08</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\Templates\CollapsedNotesItemTemplate.xaml</FilePath>
+      <Hash>F8-E5-AD-62-66-E6-E7-78-2D-D2-C6-72-BC-39-88-E2</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\Templates\ExpandedNotesItemTemplate.xaml</FilePath>
-      <Hash>60-30-D7-05-87-C8-79-4A-6B-86-88-C0-13-CA-10-E0</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\Templates\ExpandedNotesItemTemplate.xaml</FilePath>
+      <Hash>B2-B1-4C-79-F9-54-0A-14-65-94-22-60-03-D7-1A-68</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\Templates\ItemUITemplate.xaml</FilePath>
-      <Hash>EE-12-3E-A3-C9-F1-0A-A2-E8-4B-E9-0F-1F-6D-1C-1A</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\Templates\ItemUITemplate.xaml</FilePath>
+      <Hash>9A-6B-18-57-1B-A2-F1-94-F3-B4-76-2F-86-00-01-60</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\Templates\NotesTodoItemTemplate.xaml</FilePath>
-      <Hash>13-E0-40-E8-68-46-64-1C-44-29-0A-65-49-F0-7C-DA</Hash>
+      <FilePath>C:\Users\katze\Documents\Projects\PBL Tracer\Tracer\Tracer\Views\Templates\NotesTodoItemTemplate.xaml</FilePath>
+      <Hash>FF-4A-45-4F-44-F4-7D-44-B3-0F-78-18-F5-60-54-90</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>
