@@ -2722,24 +2722,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hugzgaming\\.nuget\\packages\\": {},
+    "C:\\Users\\katze\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+      "projectUniqueName": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
       "projectName": "Tracer.Android",
-      "projectPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
-      "packagesPath": "C:\\Users\\Hugzgaming\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\obj\\",
+      "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
+      "packagesPath": "C:\\Users\\katze\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hugzgaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\katze\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2753,8 +2753,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
-              "projectPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
+            "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+              "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj"
             }
           }
         }
@@ -2798,13 +2798,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

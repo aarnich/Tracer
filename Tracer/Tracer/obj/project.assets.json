@@ -1865,23 +1865,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hugzgaming\\.nuget\\packages\\": {},
+    "C:\\Users\\katze\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
+      "projectUniqueName": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj",
       "projectName": "Tracer",
-      "projectPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
-      "packagesPath": "C:\\Users\\Hugzgaming\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\obj\\",
+      "projectPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\Tracer.csproj",
+      "packagesPath": "C:\\Users\\katze\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\katze\\Documents\\Projects\\PBL Tracer\\Tracer\\Tracer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hugzgaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\katze\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1968,13 +1968,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Projects\\C#\\Tracer\\Tracer\\Tracer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
