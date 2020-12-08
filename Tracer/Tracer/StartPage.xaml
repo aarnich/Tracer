@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tracer.StartPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Email" PlaceholderColor="Black" x:Name="TxtRegEmail"></Entry>
+            <Entry IsPassword="True" Placeholder="Password" PlaceholderColor="Black" x:Name="TxtRegPassword"></Entry>
+            <Entry IsPassword="True" Placeholder="Confirm Password" PlaceholderColor="Black" x:Name="TxtRegConPassword"></Entry>
+            <Button Text="Register" x:Name="BtnRegister" Clicked="RegisterToApp"></Button>
+            <Entry Placeholder="Email" PlaceholderColor="Black" x:Name="TxtLogEmail"></Entry>
+            <Entry IsPassword="True" Placeholder="Password" PlaceholderColor="Black" x:Name="TxtLogPassword"></Entry>
+            <Button Text="Log In" x:Name="BtnLogIn" Clicked="LogInToApp"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

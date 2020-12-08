@@ -158,7 +158,7 @@
                     SeparatorVisibility="None"
                     SelectionMode="None"
                     Margin="0,6"
-                    />
+                />
                 <!--TRACK BUTTON-->
                 <pancakeview:PancakeView
                     Grid.Row="1"
@@ -166,6 +166,9 @@
                     CornerRadius="24,0,24,0"
                     BackgroundColor="{StaticResource WhiteColor}"
                     Margin="24, 0, 0, 0">
+                    <pancakeview:PancakeView.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="AddNotes"></TapGestureRecognizer>
+                    </pancakeview:PancakeView.GestureRecognizers>
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="60" />
