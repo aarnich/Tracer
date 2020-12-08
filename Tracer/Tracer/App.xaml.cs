@@ -13,7 +13,7 @@ namespace Tracer
         public App()
         {
             InitializeComponent();
-            if (Preferences.Get("MyFirebaseRefreshToken", "") != string.Empty)
+            if (!string.IsNullOrEmpty(Preferences.Get("MyFirebaseRefreshToken", "")))
             {
                 InitNavigation();
             }

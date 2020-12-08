@@ -13,6 +13,7 @@ public class MonoPackageManager_Resources {
 		"FormsViewGroup.dll",
 		"LiteDB.dll",
 		"Newtonsoft.Json.dll",
+		"Rg.Plugins.Popup.dll",
 		"System.Reactive.dll",
 		"Tracer.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

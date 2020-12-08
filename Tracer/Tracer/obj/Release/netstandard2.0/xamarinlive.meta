@@ -8,7 +8,7 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\InputUserDetailsPage.xaml</FilePath>
-      <Hash>40-FE-3F-8C-9E-FB-21-BC-DE-74-A6-FA-6D-B4-E0-71</Hash>
+      <Hash>E5-D1-BB-43-CC-1A-26-AD-E3-DC-DB-DD-72-A9-57-F7</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
@@ -27,6 +27,11 @@
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
+      <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\AddNotesPopUpView.xaml</FilePath>
+      <Hash>66-8C-15-B9-10-25-D1-42-30-FF-7F-89-AB-AA-0A-BE</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\BaseView.xaml</FilePath>
       <Hash>B3-A5-8B-A8-63-28-1C-6F-6C-3D-85-4B-1E-12-77-11</Hash>
       <Properties>
@@ -40,7 +45,7 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Projects\C#\Tracer\Tracer\Tracer\Views\NotePopupView.xaml</FilePath>
-      <Hash>B5-3B-5A-23-15-EC-06-9C-A8-A6-6C-37-8A-5E-C2-68</Hash>
+      <Hash>6A-AF-63-8A-35-20-39-D7-FE-03-5E-04-1E-C3-16-5E</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>

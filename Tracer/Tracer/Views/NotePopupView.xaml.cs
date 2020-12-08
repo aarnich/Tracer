@@ -1,4 +1,5 @@
 ﻿using System;
+using Rg.Plugins.Popup.Services;
 using Xamarin.Forms;
 
 namespace Tracer.Views
@@ -33,7 +34,7 @@ namespace Tracer.Views
 
         private void AddNotes(object sender, EventArgs e)
         {
-            
+            PopupNavigation.Instance.PushAsync(new AddNotesPopUpView());
         }
     }
 }

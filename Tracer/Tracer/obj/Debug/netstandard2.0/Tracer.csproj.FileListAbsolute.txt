@@ -41,6 +41,7 @@ D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\ref\Tracer.dll
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.pdb
-D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\InputUserDetailsPage.xaml.g.cs
 D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\StartPage.xaml.g.cs
+D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Views\AddNotesPopUpView.xaml.g.cs
+D:\Projects\C#\Tracer\Tracer\Tracer\obj\Debug\netstandard2.0\Tracer.csprojAssemblyReference.cache

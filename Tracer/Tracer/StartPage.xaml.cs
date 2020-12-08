@@ -19,8 +19,8 @@ namespace Tracer
             InitializeComponent();
         }
 
-        public string WebApi { get; } = "AIzaSyDWHdJo1jRj2Z2LQxaiMCy6NnZEg1WTQ84";
-        public static string Email { get; private set; }
+        public static string WebApi { get; } = "AIzaSyDWHdJo1jRj2Z2LQxaiMCy6NnZEg1WTQ84";
+        public static string Email { get; set; }
 
         private async void LogInToApp(object sender, EventArgs e)
         {
@@ -60,7 +60,7 @@ namespace Tracer
                 }
                 catch (Exception exception)
                 {
-                    await DisplayAlert("Registration Fail", exception.ToString(), "Pk");
+                    await DisplayAlert("Registration Fail", exception.ToString(), "Ok");
                 }
             }
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ydKaI6CBKpHkphcM8wtRcvHWRFsg9mofw0/4jtyRbkeOrZ1iqizQU9o7KFLcWyHTo3SAw3s2cTah9o4k3dq8fA==",
+  "dgSpecHash": "TqdFc6DUR/Yl+TJudaCvTE1b5FyVKrxbCY/Js/Fw2K7TXzStixz7X/yHqZBNiRfVjLXnRoBt3w9BlKxIYAmIVA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\C#\\Tracer\\Tracer\\Tracer.Android\\Tracer.Android.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Hugzgaming\\.nuget\\packages\\rg.plugins.popup\\2.0.0.7\\rg.plugins.popup.2.0.0.7.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
@@ -55,7 +56,7 @@
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\xamarin.ffimageloading.transformations\\2.4.11.982\\xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\Hugzgaming\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512",
     "C:\\Users\\Hugzgaming\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.763-beta\\xamarin.forms.pancakeview.2.3.0.763-beta.nupkg.sha512"
   ],
   "logs": []
