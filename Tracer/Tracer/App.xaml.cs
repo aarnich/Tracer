@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Tracer.Services;
 using Tracer.Views;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,9 +13,17 @@ namespace Tracer
         public App()
         {
             InitializeComponent();
-            InitNavigation();
+            if (!string.IsNullOrEmpty(Preferences.Get("MyFirebaseRefreshToken", "")))
+            {
+                InitNavigation();
+            }
+            else
+            {
+                MainPage = new NavigationPage(new StartPage());
+            }
+            //InitNavigation();
         }
-        Task InitNavigation()
+        public static Task InitNavigation()
         {
             return NavigationService.Instance.InitializeAsync();
         }
