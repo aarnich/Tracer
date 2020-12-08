@@ -1,4 +1,5 @@
 ﻿
+using System;
 using Tracer.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -49,6 +50,10 @@ namespace Tracer.Views
             PopupFade.IsVisible = false;
             PopupFade.TranslateTo(0, _pageHeight - Popup.PageHeader, CollapseAnimationSpeed, Easing.SinInOut);
         }
-        
+
+        private void NavigateDashboard(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

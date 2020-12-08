@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Firebase.Auth;
+using Newtonsoft.Json;
 using Tracer.ViewModel.Base;
 using Tracer.ViewModels;
 using Tracer.Views;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace Tracer.Services
@@ -35,7 +38,26 @@ namespace Tracer.Services
 
         public async Task InitializeAsync()
         {
+            GetProfileInfoAndRefreshToken();
             await NavigateToAsync<ItemViewModel>();
+        }
+
+        private async void GetProfileInfoAndRefreshToken()
+        {
+            var authProvider = new FirebaseAuthProvider(new FirebaseConfig(StartPage.WebApi));
+            try
+            {
+                var savedFirebaseAuth = JsonConvert.DeserializeObject<FirebaseAuth>(Preferences.Get("MyFirebaseRefreshToken", ""));
+                var refreshToken = await authProvider.RefreshAuthAsync(savedFirebaseAuth);
+                Preferences.Set("MyFirebaseRefreshToken", JsonConvert.SerializeObject(refreshToken));
+
+                StartPage.Email = savedFirebaseAuth.User.Email;
+            }
+            catch (Exception e)
+            {
+                await CurrentApplication.MainPage.DisplayAlert("Log In Token Expired", e.ToString(), "Ok");
+                CurrentApplication.MainPage = new NavigationPage(new StartPage());
+            }
         }
 
         public Task NavigateToAsync<TViewModel>() where TViewModel : ViewModelBase => InternalNavigateToAsync(typeof(TViewModel), null);

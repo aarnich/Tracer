@@ -42,6 +42,10 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
+            },
             "Xamarin.Android.Support.Annotations": {
               "target": "Package",
               "version": "[28.0.0.3, )"
@@ -64,7 +68,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1451, )"
+              "version": "[4.8.0.1687, )"
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",
@@ -114,6 +118,14 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
             "LiveXAML": {
               "target": "Package",
               "version": "[2.1.73, )"
@@ -123,6 +135,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -138,7 +158,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1451, )"
+              "version": "[4.8.0.1687, )"
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",

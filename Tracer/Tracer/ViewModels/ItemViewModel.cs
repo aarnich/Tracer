@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Input;
 using Tracer.Models;
 using Tracer.Services;
@@ -19,7 +20,7 @@ namespace Tracer.ViewModels
 
         public ItemViewModel()
         {
-            LoadData();
+            Task.Run(LoadData);
         }
         public ObservableCollection<Item> Items
         {
@@ -48,10 +49,10 @@ namespace Tracer.ViewModels
         }
         public ICommand Navigate => new Command(NavigateToWindow);
 
-        private void LoadData()
+        private async void LoadData()
         {
             Items = new ObservableCollection<Item>(DataService.Instance.GetItems());
-            var actualNotes = NotesService.Instance.GetActualNotes();
+            var actualNotes = await NotesService.Instance.GetActualNotes();
             Notes = new ObservableCollection<NotesItem>(actualNotes);
         }
         private void NavigateToWindow()
