@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="http://rotorgames.com"
+             x:Class="Tracer.Views.AddNotesPopUpView">
+    <pages:PopupPage.Resources>
+        <Style TargetType="Entry">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="VerticalOptions" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="BorderColor" Value="Black" />
+            <Setter Property="BackgroundColor" Value="Black" />
+        </Style>
+        <Style x:Key="TitleStyle" TargetType="Label">
+            <Setter Property="FontFamily" Value="{StaticResource Futura}" />
+            <Setter Property="FontSize" Value="22" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="BackgroundColor" Value="White" />
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="DefaultLabel" TargetType="Label">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="BackgroundColor" Value="White" />
+        </Style>
+        <Style TargetType="DatePicker">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="15" />
+        </Style>
+        <Style TargetType="TimePicker">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="15" />
+        </Style>
+        <Style TargetType="Picker">
+            <Setter Property="FontFamily" Value="{StaticResource FuturaMedium}" />
+            <Setter Property="FontSize" Value="15" />
+        </Style>
+    </pages:PopupPage.Resources>
+    
+    <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="10" Margin="20, 0" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <StackLayout BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="200">
+            <Label Style="{StaticResource TitleStyle}" Text="Activity Details" />
+            <Label Style="{StaticResource DefaultLabel}" Text="Title"/>
+            <Entry Placeholder="Title" x:Name="TxtContent"/>
+            <Label Style="{StaticResource DefaultLabel}" Text="Date"/>
+            <DatePicker x:Name="DprDoa"/>
+            <Label Style="{StaticResource DefaultLabel}" Text="Time"/>
+            <TimePicker x:Name="TprToa"/>
+            <Label Style="{StaticResource DefaultLabel}" Text="Location"/>
+            <Picker x:Name="CmbLocations" Title="Location"/>
+            <Button Text="Add" Clicked="AddToDatabase"></Button>
+        </StackLayout>
+    </Frame>
+</pages:PopupPage>

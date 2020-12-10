@@ -65,10 +65,12 @@
                     SelectedItem="{Binding SelectedItem, Mode=TwoWay}"
                     SelectionChangedCommand="{Binding Navigate}"
                     Margin="0,0">
+                    <CollectionView.SelectedItems>
+                        <TapGestureRecognizer Tapped="NavigateDashboard"></TapGestureRecognizer>
+                    </CollectionView.SelectedItems>
                     <CollectionView.ItemsLayout>
                         <GridItemsLayout Orientation="Vertical" Span="2"/>
                     </CollectionView.ItemsLayout>
-                    
                 </CollectionView>
                 <!--TIPS-->
                 <Grid
